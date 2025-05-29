@@ -16,7 +16,7 @@ echo"<h1> Hai Temanku</h1>";
         <link rel="stylesheet" href="">
     </head>
     <body>
-        <h2>Hai semuanya</h2>
+        <h2>test conection</h2>
         <p>Mencari achievement gitty up</p>
         <script src="" async defer></script>
     </body>
